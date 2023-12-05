@@ -173,7 +173,7 @@
         android:layout_marginRight="30dp"
         android:layout_marginLeft="150dp"
         android:text="REGISTER"
-        android:onClick="registerl"/>
+        android:onClick="onclick"/>
   </LinearLayout>
 
 

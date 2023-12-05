@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void registerl(View view) {
+    public void onclick(View view) {
         val=validate();
 
         if (val)
